@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Red Apple",
+    "description": "Very sweet",
+    "date": "2025-01-01",
+    "category": "Fruit"
+  },
+  {
+    "id": 2,
+    "name": "Milk",
+    "description": "Fresh milk",
+    "date": "2023-01-01",
+    "category": "Dairy",
+    "isExpired": true
+  }
+]
